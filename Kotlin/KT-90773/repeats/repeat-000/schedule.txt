@@ -1,0 +1,9 @@
+generation_seed=2026102826
+schedule_repeat=0
+schedule_seed=2027102829
+scc_component_order=[[WQK], [TdxPv], [S022], [NYg9MM], [F4R9n], [OXJO1], [VGY0], [HwuKCp], [YSoA2AlO], [HoH], [WoTj49], [AHWOqtF]]
+scc_stage_count_requested=3
+scc_stage_count_actual=3
+scc_stage_components=[[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11]]
+scc_validity_snapshots=4
+parameter_stress_snapshots=82
