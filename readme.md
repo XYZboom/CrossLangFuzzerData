@@ -29,3 +29,9 @@ This table shows the bugs we have found.
 | Scala2  | [SCALA2-13074](https://github.com/scala/bug/issues/13074)                   |
 | Scala2  | [SCALA2-13075](https://github.com/scala/bug/issues/13075)                   |
 | Java    | [JDK-8352290](https://bugs.openjdk.org/browse/JDK-8352290?filter=allissues) |
+
+## Unreported Findings
+
+| Project | Finding | Evidence |
+|---------|---------|----------|
+| Kotlin  | K2 incremental Java ABI invalidation mismatch (not yet assigned an issue ID) | [Reproducer and original data](Kotlin/K2-incremental-java-abi-invalidation/README.md) |
